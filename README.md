@@ -17,10 +17,21 @@ Nuts.
 So instead I've been liberally "inspired" by the Internet and "written" a fruit machine game with a
 CII twist.  
 
+![screenshot](screenshot.png)
+
+# Getting the code
+
+Assuming you are reading this on GitHub, click on the "Clone or Download"..."Download ZIP" button at the top right. For
+more advanced users:
+
+```
+git clone https://github.com/jrs53/cii-fruit-machine
+```
+
 # Running the code
 
 You need python 3.5ish and the pygame library. I'd recommend installing them in a conda environment or a pip virtualenv. 
-Again, ask Matt (or Mr Google) for details:
+Ask Matt (or Mr Google) for details:
  
 ```
 conda install -c cogsci pygame
